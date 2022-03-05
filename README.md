@@ -1,12 +1,12 @@
 # Olá Tudo Bem ? Me Chamo Maicon Borges 👋
                                                        
-                                                               Seja Bem Vindo ao meu GitHub!
+                                              Seja Bem Vindo ao meu GitHub!
                                                                
-                                                           Estou Cursando Análise e Desenvolvimento de Sistemas
+                                       Estou Cursando Análise e Desenvolvimento de Sistemas
                                                            
-                                                           Tenho Conhecimento em Html, Css, JavaScript.
+                                           Tenho Conhecimento em Html, Css, JavaScript.
                                                            
-                                                               Estou Estudando, React , flutter, Dart.
+                                              Estou Estudando, React , flutter, Dart.
 <div align="center">
   <a href="https://github.com/maiconwnet">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=maiconwnet&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
